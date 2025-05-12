@@ -8,9 +8,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=looksaw2)](https://github.com/anuraghazra/github-readme-stats)
 
+![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-5%2B-3178C6?logo=typescript)
+![Go](https://img.shields.io/badge/Go-1.20%2B-00ADD8?logo=go)
 ![Rust](https://img.shields.io/badge/Rust-1.70.0-orange?logo=rust)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 
-
-</div># looksaw2
+![img](img/ChatGPT%20Image%20May%2012,%202025,%2010_16_11%20AM.png)
+</div>
