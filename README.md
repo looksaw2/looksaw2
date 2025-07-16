@@ -1,6 +1,6 @@
 ### 欢迎来到我的github  :clap: :clap: :clap:
 
-![alt text](./img/laugh1.png)I'm a student from Xi'an ,China.
+<img width =16 hight=16 src="./img/laugh1.png" alt="laugh">I'm a student from Xi'an ,China.
 ❤️ I love coding.
 ❔ if you have any question, you can send email to <a href="mailto:xdu2814031084@gmail.com">Email</a>
 
