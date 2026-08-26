@@ -40,10 +40,10 @@
 
 <div align="center">
 
-[![goal-prompt](https://github-readme-stats.vercel.app/api/pin/?username=looksaw2&repo=goal-prompt&theme=tokyonight&hide_border=true)](https://github.com/looksaw2/goal-prompt)
-[![hugegraph-ai](https://github-readme-stats.vercel.app/api/pin/?username=looksaw2&repo=hugegraph-ai&theme=tokyonight&hide_border=true)](https://github.com/looksaw2/hugegraph-ai)
-[![learn-claude-code-rs](https://github-readme-stats.vercel.app/api/pin/?username=looksaw2&repo=learn-claude-code-rs&theme=tokyonight&hide_border=true)](https://github.com/looksaw2/learn-claude-code-rs)
-[![codex](https://github-readme-stats.vercel.app/api/pin/?username=looksaw2&repo=codex&theme=tokyonight&hide_border=true)](https://github.com/looksaw2/codex)
+[![goal-prompt](https://img.shields.io/badge/goal--prompt-Open%20source-36BCF7?style=for-the-badge&logo=github)](https://github.com/looksaw2/goal-prompt)
+[![hugegraph-ai](https://img.shields.io/badge/hugegraph--ai-GraphRAG-EF6C00?style=for-the-badge&logo=apache)](https://github.com/looksaw2/hugegraph-ai)
+[![learn-claude-code-rs](https://img.shields.io/badge/learn--claude--code--rs-Rust%20agents-DEA584?style=for-the-badge&logo=rust)](https://github.com/looksaw2/learn-claude-code-rs)
+[![codex](https://img.shields.io/badge/codex-Coding%20agent-412991?style=for-the-badge&logo=openai)](https://github.com/looksaw2/codex)
 
 </div>
 
@@ -51,20 +51,23 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=looksaw2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=looksaw2&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages">
+<a href="https://github.com/looksaw2"><img src="https://img.shields.io/github/commit-activity/y/looksaw2/looksaw2?style=for-the-badge&logo=github&label=Commits%20this%20year&color=2ea44f" alt="Commits this year"></a>
+<a href="https://github.com/looksaw2?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-85-8957e5?style=for-the-badge&logo=github" alt="Public repositories"></a>
+<a href="https://github.com/looksaw2/looksaw2/commits/main"><img src="https://img.shields.io/github/last-commit/looksaw2/looksaw2?style=for-the-badge&logo=git&label=Profile%20updated&color=0e75b6" alt="Last profile update"></a>
 
-<img src="https://streak-stats.demolab.com?user=looksaw2&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=looksaw2&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph">
+<img src="https://raw.githubusercontent.com/looksaw2/looksaw2/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake animation">
 
 </div>
+
+> GitHub's native contribution calendar below is the source of truth for my activity. The snake animation is refreshed automatically by GitHub Actions.
 
 ## 🏆 More than code
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=looksaw2&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies">
+📚 Learning in public &nbsp; · &nbsp; 🧩 Building useful tools &nbsp; · &nbsp; 🤝 Sharing open source
 
 </div>
 
