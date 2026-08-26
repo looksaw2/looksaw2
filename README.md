@@ -57,7 +57,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/looksaw2/looksaw2/gh-pages/github-contribution-grid-snake.svg" alt="Contribution snake animation">
+<img src="https://raw.githubusercontent.com/looksaw2/looksaw2/gh-pages/github-contribution-grid-snake.gif?v=1" alt="Contribution snake animation">
 
 </div>
 
